@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/lackfujii/RayField/main/Thingy'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Pylirx/Rayfield/main/KeySystem'))()
 local Window = Rayfield:CreateWindow({
 	Name = "Vertex.LUA v2.0.0",
 	LoadingTitle = "Vertex.LUA is loading",
